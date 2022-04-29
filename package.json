@@ -1,5 +1,5 @@
 {
-  "name": "catbox-mongodb",
+  "name": "catbox-mongodb-yalo",
   "description": "MongoDB adapter for catbox",
   "version": "4.2.1",
   "author": "Eran Hammer <eran@hammer.io> (http://hueniverse.com)",
@@ -8,7 +8,7 @@
     "Wyatt Preul <wpreul@gmail.com> (http://jsgeek.com)",
     "Jarda Kotesovec <jarda.kotesovec@gmail.com>"
   ],
-  "repository": "git://github.com/hapijs/catbox-mongodb",
+  "repository": "https://github.com/jlimas/catbox-mongodb",
   "main": "lib/index.js",
   "keywords": [
     "cache",
